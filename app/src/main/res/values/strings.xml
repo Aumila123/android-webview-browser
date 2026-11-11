@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MDA_4_Lab</string>
+    <string name="hint_URL">https://www</string>
+    <string name="button_loadWeb">Užkrauti tinklapį</string>
+</resources>
